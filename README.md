@@ -19,7 +19,7 @@ A simple and containerized FastAPI microservice to detect the language of a give
 ### 1. 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/language-detect-api.git
+git clone https://github.com/ammarbinshakir/language-detect-api
 cd language-detect-api
 ```
 
